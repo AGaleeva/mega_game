@@ -1,6 +1,12 @@
 // start mega-game project
 
-let roadMines = [true, true, true, true, true, true, true, true, true, true];
+//let roadMines = [true, true, true, true, true, true, true, true, true, true];
+
+// let roadMines = [true, false, false, false, false, false, false, false, false, true]
+
+// let roadMines = [false, false, false, true, false, false, false, false, false, false]
+
+let roadMines = [false, false, false, false, false, false, false, false, false, false]
 
 let damaged = false;
 
